@@ -38,5 +38,8 @@
   "bugs": {
     "url": "https://github.com/KidkArolis/leap/issues"
   },
+  "browserify": {
+    "transform": ["deamdify"]
+  },
   "homepage": "https://github.com/KidkArolis/leap"
 }
